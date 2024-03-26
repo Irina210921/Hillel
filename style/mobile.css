@@ -1,0 +1,271 @@
+@media screen and (max-width: 428px) {
+    header {
+        padding: 36px 0px;
+        background-color: #EFEFF2;
+        width: auto;
+        display: block;
+        margin-bottom: 50px;
+    }
+
+    .container {
+        display: block;
+        align-items: center;
+        gap: 68px;
+    }
+
+    .logo {
+        padding: 0 15px;
+        margin-bottom: 20px;
+    }
+
+    .nav_list {
+        padding: 0 15px;
+        display: block;
+    }
+
+    .btn_box {
+        padding: 0 15px;
+        display: block;
+    }
+
+    .btn_box a {
+        display: block;
+        width: 80px;
+    }
+
+    .btn_box .button {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .offer{
+        display: block;
+        width: auto;
+    }
+    .offer_block {
+        width: auto;
+    }
+    .offer_block{
+        padding: 0px 15px;
+        position: relative;
+    }
+    .offer{
+        display: block;
+        width: auto;
+    }
+    .offer_women{
+        width: auto;
+        background-image: none;
+    }
+    .offer_invision{
+        right: 265px;
+        top: -188px;
+
+    }
+    .offer_protopie{
+        right: 262px;
+        top:-125px;
+    }
+    .offer_miro{
+        left: 15px;
+        top: -60px;
+    }
+    .offer_photoshop{
+        left: 200px;
+        top: -188px;
+    }
+    .offer_button{
+        margin-bottom: 50px;
+    }
+    .offer_figma{
+        left: 200px;
+        top: -125px;
+    }
+    .offer_ilustrator{
+        left: 200px;
+        bottom: 0px;
+    }
+    .proffesion_box{
+        width: auto;
+        display: block;
+        padding: 0 15px;
+    }
+    .proffesion_paragraf{
+        width: auto;
+        margin-bottom: 100px;
+    }
+    .libero{
+        margin-bottom: 20px;
+    }
+    .blok{
+        display: block;
+        width: auto;
+        padding: 0 15px;
+    }
+    .portfolio_tittle{
+        width: auto;
+    }
+    .internship_tittle{
+        width: auto;
+    }
+    .certificate_tittle{
+        width: auto;
+    }
+    .blok_text{
+        width: auto;
+    }
+    .discovery_blok{
+        width: auto;
+        padding: 0 15px;
+    }
+    .blok{
+        display: block;
+    }
+    .prices_base{
+        width: auto;
+    }
+    .prices_optimal{
+        width: auto;
+    }
+    .prices_premium{
+        width: auto;
+    }
+    .footer_contact {
+        display: block;
+        width: auto;
+        padding: 0 15px;
+    }
+    .copyright{
+        padding: 0 15px;
+    }
+    main{
+        background: none;
+    }
+}
+@media screen and (max-width: 360px) {
+    .offer_protopie{
+        right: 195px;
+    }
+    .offer_photoshop{
+        left: 180px;
+    }
+    .offer_ilustrator{
+        left: 180px;
+    }
+    .offer_figma{
+        left: 180px;
+    }
+    .base_price2{
+        font-size: 48px;
+    }
+    .optimal_price2 {
+        font-size: 48px;
+    }
+    .premium_price2 {
+        font-size: 48px;
+    }
+    .offer_invision{
+        right: 198px;
+        top: -188px;
+    }
+    footer {
+        padding: 0 15px;
+    }
+    main{
+        background: #FBFBFC;
+    }
+}
+@media screen and (max-width: 375px) {
+    .offer_invision{
+        right: 210px;
+    }
+    .offer_protopie {
+        right: 206px;
+    }
+    .offer_miro{
+        left: 18px;
+    }
+    .offer_ilustrator{
+    bottom: 3px;
+    }
+    main{
+        background: #FBFBFC;
+    }
+}
+@media screen and (max-width: 320px) {
+    .offer_invision{
+        right: 165px;
+    }
+    .offer_protopie {
+        right: 160px;
+    }
+    .offer_miro{
+        left: 10px;
+    }
+    main{
+        background: #FBFBFC;
+    }
+    .offer_photoshop{
+        padding: 16px 16px;
+    }
+    .offer_ilustrator{
+        padding: 16px 16px;
+    }
+    .premium_price2 {
+        font-size: 38px;
+    }
+    .optimal_price2 {
+        font-size: 38px;
+    }
+    .base_price2 {
+        font-size: 38px;
+    }
+    .footer_logo {
+        padding-top: 10px;
+    }
+    footer {
+        padding-bottom: 10px;
+    }
+}
+@media screen and (max-width: 414px) {
+    .offer_invision{
+        right: 255px;
+    }
+    .offer_protopie {
+        right: 250px;
+    }
+    main{
+        background: #FBFBFC;
+    }
+}
+@media screen and (max-width: 390px) {
+    .offer_invision {
+        right: 226px;
+    }
+
+    .offer_protopie {
+        right: 223px;
+    }
+
+    .offer_miro {
+        left: 16px;
+    }
+    main{
+        background: #FBFBFC;
+    }
+}
+@media screen and (max-width: 393px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
